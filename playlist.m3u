@@ -17,6 +17,8 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index
 http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,五星体育02
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,五星体育20230527UPDATE
+http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 ,CCTV5 高清
 http://122.136.191.250/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,凤凰资讯
